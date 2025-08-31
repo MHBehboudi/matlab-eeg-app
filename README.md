@@ -22,4 +22,4 @@ This MATLAB App provides a graphical user interface (GUI) for cleaning and pre-p
     - Biosig (v3.8.1)
     - firfilt (v1.6.2)
 
-![Project Workflow Chart](Speech_Neural_Decoding_Flow_Chart.png)
+![Pren Processing App Demo](Pre_Processing_App_Demo.PNG)
